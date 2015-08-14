@@ -1,0 +1,259 @@
+#container {
+	background-color: #8dc63f;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(images/bg_home_like.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	margin-top: 8px;
+	padding-bottom: 150px;
+	height: 1025px;
+}
+#visit_container {
+	background-color: #8dc63f;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(images/bg_home_like.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	margin-top: 8px;
+	padding-bottom: 150px;
+	height: 1100px;
+}
+#office_container {
+	background-color: #8dc63f;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(images/bg_home_like.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	margin-top: 8px;
+	padding-bottom: 150px;
+	height: 1100px;
+}
+#bio_container {
+	background-color: #8dc63f;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(images/bg_home_like.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	margin-top: 8px;
+	padding-bottom: 150px;
+	display: block;
+	height: 3500px;
+}
+#procedures_container {
+	background-color: #8dc63f;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(images/bg_home_like.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	margin-top: 8px;
+	padding-bottom: 150px;
+	display: block;
+	height: 2200px;
+}
+a:link {
+	text-decoration: none;
+	color: #517A1A;
+}
+
+#navigation {
+	height: 150px;
+	position: relative;
+	top: 45px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#footer {
+	background-color: #658c2f;
+	height: 200px;
+	width: 960px;
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: #afdb72;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0px;
+	position: relative;
+}
+.left_column {
+	width: 465px;
+	position: relative;
+	float: left;
+	top: 340px;
+	left: 35px;
+}
+.full_column {
+	width: 875px;
+	position: relative;
+	float: left;
+	top: 300px;
+	left: 35px;
+	margin-bottom: 40px;
+	padding-bottom: 40px;
+}
+.float_left_pad {
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 15px;
+}
+.float_left {
+	float: left;
+	margin-right: 10px;
+}
+.float_right {
+	float: right;
+	margin-left: 10px;
+}
+h4 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 24px;
+	color: #B6EEFA;
+	margin-bottom: -5px;
+}
+.right_column {
+	float: left;
+	width: 385px;
+	position: relative;
+	left: 70px;
+	top: 340px;
+	background-image: url(images/bg_reachus.png);
+	height: 660px;
+	background-repeat: no-repeat;
+}
+ul {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	list-style-type: none;
+}
+li {
+	float: left;
+}
+.nav_space {
+	margin-right: 45px;
+}
+.left_nav {
+	width: 220px;
+	position: relative;
+	left: 120px;
+	float: left;
+	height: 20px;
+	top: 25px;
+}
+.right_nav {
+	float: left;
+	height: 20px;
+	width: 260px;
+	position: relative;
+	left: 130px;
+	top: 25px;
+}
+#like {
+	float: left;
+	height: 100px;
+	width: 400px;
+	position: relative;
+	top: 50px;
+}
+#logo {
+	float: left;
+	height: 65px;
+	width: 288px;
+	position: relative;
+	left: 105px;
+}
+ul a {
+	padding-right: 15px;
+	padding-left: 15px;
+}
+h2 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	color: #FFF;
+	font-weight: normal;
+}
+h6 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 11px;
+	line-height: 12px;
+	font-weight: normal;
+	color: #FFF;
+	margin-top: 0px;
+}
+.quick_links {
+	background-image: url(images/title_quicklinks.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	height: 100px;
+	width: 375px;
+	padding-top: 30px;
+	padding-left: 15px;
+	margin-top: 25px;
+	margin-left: 25px;
+}
+.copyright {
+	height: 16px;
+	width: 900px;
+	margin-left: 25px;
+	margin-top: 5px;
+}
+.quick_links a {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 14px;
+	line-height: 18px;
+	font-weight: normal;
+	color: #B6EEFA;
+	text-decoration: none;
+}
+#phone {
+	height: 60px;
+	width: 180px;
+	position: relative;
+	top: 190px;
+	float: left;
+	left: 165px;
+}
+.hours {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #6C9334;
+	font-size: 13px;
+	line-height: 18px;
+	margin-top: 0px;
+}
+#map {
+	height: 200px;
+	width: 281px;
+	position: relative;
+	top: 335px;
+	float: left;
+	left: 55px;
+}
+.no_pad {
+	margin-right: 0px;
+	padding-right: 0px;
+}
+#address {
+	float: left;
+	height: 80px;
+	width: 190px;
+	position: relative;
+	top: 300px;
+	left: -18px;
+}
+#like {
+	position: relative;
+	top: 67px;
+	left: 40px;
+	float: left;
+}
